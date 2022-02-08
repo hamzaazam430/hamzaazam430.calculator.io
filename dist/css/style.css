@@ -1,31 +1,16 @@
-/* .container {
-    background-color: antiquewhite;
-} */
-
 #main {
     align-content: center;
     margin-top: 5%;
-    /* width: 50%; */
 }
 
 .amount-input {
     width: 50%;
     margin: auto;
-    /* display: inline-block; */
 }
 
 #amount {
     margin-bottom: 5%;
 }
-
-/* #submitBtn {
-    margin: auto;
-} */
-
-
-/* #heading {
-    margin: auto;
-} */
 
 #result {
     margin-top: 5%;
